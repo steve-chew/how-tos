@@ -15,4 +15,10 @@
 1-安装jpillora's cloud-torrent  
 2-具体操作指引在：https://github.com/steve-chew/cloud-torrent
 
+## HOW-TO-3：激活微软Windows系统  
+1=微软官方repo：  
+  https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/get-started/kms-client-activation-keys.md  
+2-微软官网中文指引链接：  
+  https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys
+
 #### 
