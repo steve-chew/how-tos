@@ -1,5 +1,5 @@
 # how-tos
-## HOW-TO-1：如何注册Yandex邮箱  
+## HOW-TO-1：注册Yandex邮箱  
 
 1-打开网址：https://mail.yandex.com  
 2-点击页面 右上角的 `Log in`  
@@ -11,7 +11,7 @@
   :warning:   通过这种方式注册，中国大陆手机号码也可以很快收到验证码  
   :warning:   以上纯属玄学，并无科学道理
 
-## HOW-TO-2：如何下载磁力链接与torrent文件  
+## HOW-TO-2：下载磁力链接与torrent文件  
 1-安装jpillora's cloud-torrent  
 2-具体操作指引在：https://github.com/steve-chew/cloud-torrent
 
