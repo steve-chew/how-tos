@@ -1,4 +1,6 @@
-source: https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/get-started/kms-client-activation-keys.md  
+source:   
+https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/get-started/kms-client-activation-keys.md  
+https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys  
 ---
 title: Key Management Services (KMS) client activation and product keys for Windows Server and Windows
 description: Get the product keys needed for setup and activation of Windows Server and other Windows products from a KMS host server.
