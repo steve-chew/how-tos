@@ -10,5 +10,9 @@
   :warning:   11位手机号码格式：`00861XXXXXXXXXX`，不用页面提示的格式  
   :warning:   通过这种方式注册，中国大陆手机号码也可以很快收到验证码  
   :warning:   以上纯属玄学，并无科学道理
-  
+
+## HOW-TO-2：如何下载磁力链接与torrent文件  
+1-安装jpillora's cloud-torrent  
+2-具体操作指引在：https://github.com/steve-chew/cloud-torrent
+
 #### 
