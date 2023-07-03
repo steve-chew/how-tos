@@ -21,4 +21,7 @@
 2-微软官网中文指引链接：  
   https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys
 
+## HOW-TO-4：学习一门语言  
+1-我觉得[Pimsleur的课程](https://www.pimsleur.com/)是最好的。
+
 #### 
