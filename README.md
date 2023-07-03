@@ -22,6 +22,7 @@
   https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys
 
 ## HOW-TO-4：学习一门语言  
-1-我觉得[Pimsleur的课程](https://www.pimsleur.com/)是最好的。
+1-我觉得[Pimsleur的课程](https://www.pimsleur.com/)是最好的  
+2-例如 Pimsleur Japanese (DFE64EF9C9F0ABB34535476828F0AD067D5F72EF)
 
 #### 
